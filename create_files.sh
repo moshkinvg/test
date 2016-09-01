@@ -1,0 +1,16 @@
+#!/bin/bash
+touch Students_files/Artamonov_Oleksandr
+touch Students_files/Artemyshyn_Mykola
+touch Students_files/Dubyna_Vitalii
+touch Students_files/Zaretskyi_Oleksandr
+touch Students_files/Karpiuk_Roman
+touch Students_files/Koval_Andrii
+touch Students_files/Kozlov_Pavlo
+touch Students_files/Kruts_Oleh
+touch Students_files/Malakhov_Serhii
+touch Students_files/Moskovych_Oleh
+touch Students_files/Moshkin_Volodymyr
+touch Students_files/Musiienko_Maksym
+touch Students_files/Rolskyi_Serhii
+touch Students_files/Semeniuta_Hryhorii
+touch Students_files/Semych_Oleksandr
