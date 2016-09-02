@@ -1,0 +1,4 @@
+
+Do not ever run git clean -d -f
+in your home directory, moreover, on a server.
+
